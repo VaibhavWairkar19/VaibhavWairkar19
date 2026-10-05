@@ -22,7 +22,7 @@
 - 📊 I build dashboards, write SQL queries and use Python to find patterns and answer business questions
 - 🤖 Certified in **Data Analytics with GenAI (NIIT)**
 - 🚀 Currently looking for **entry-level Data Analyst / BI roles**
-- 📍 Based in Malvan, Sindhudurg, Maharashtra, India
+- 📍 Based in Mumbai, Bangalore, Pune, Hyderabad 
 
 ---
 
