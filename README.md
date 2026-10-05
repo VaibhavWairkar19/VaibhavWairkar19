@@ -99,10 +99,7 @@ Final-year capstone project.
 SSPM's College of Engineering, Harkul, Kankavli (University of Mumbai)
 **CGPA:** 7.61 | **Graduated:** 2026
 
-## 📜 Certification
 
-**NIIT – Data Analytics with GenAI**
-Hands-on training in Excel, SQL, Python, Power BI, Statistics and GenAI.
 
 ---
 
