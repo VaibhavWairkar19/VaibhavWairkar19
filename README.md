@@ -4,6 +4,12 @@
 
 <p align="center">Turning messy data into clear stories and useful insights.</p>
 
+<p align="center">
+  <a href="Vaibhav_Wairkar_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
