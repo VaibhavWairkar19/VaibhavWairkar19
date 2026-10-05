@@ -38,7 +38,7 @@
 
 **Apps & Deployment:** Streamlit
 
-**Tools:** Git • GitHub • VS Code • Jupyter Notebook
+**Tools:**  GitHub • VS Code • Jupyter Notebook
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+ 
 </p>
 
 ---
@@ -59,37 +59,36 @@
 
 Interactive Power BI dashboard analyzing sales performance and key business KPIs for an e-commerce business.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+🔗 [View Project →](https://github.com/VaibhavWairkar19/REPO-NAME)
 
 ### 🏥 Hospital Database Management
 `MySQL` `SQL` `Database Design`
 
 Hospital database built in MySQL, covering table design, relationships and queries for hospital data.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+🔗 [View Project →](https://github.com/VaibhavWairkar19/REPO-NAME)
 
 ### 🌾 Smart Agriculture Analysis
 `Excel` `Data Analysis` `Reporting`
 
 Excel-based analysis of agriculture data with summaries and reporting to support better decisions.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+🔗 [View Project →](https://github.com/VaibhavWairkar19/REPO-NAME)
 
 ### 🤖 AgroAI
 `Python` `Machine Learning`
 
 Data and AI project applied to agriculture.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+🔗 [View Project →](https://github.com/VaibhavWairkar19/REPO-NAME)
 
 ### 🎮 GameTech (Capstone Project)
-`Python`
+`Python` `Pandas` `Data Visualization`
 
-Final-year capstone project.
+Game analytics project analyzing player behaviour and engagement patterns to surface insights on retention and gameplay trends.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+🔗 [View Project →](https://github.com/VaibhavWairkar19/REPO-NAME)
 
----
 
 ---
 
