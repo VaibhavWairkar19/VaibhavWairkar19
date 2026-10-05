@@ -114,9 +114,8 @@ Data Analyst • Business Intelligence Analyst • Power BI Developer • Junior
 
 🔗 [GitHub](https://github.com/VaibhavWairkar19)
 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavwairkar19)
-📧 [Email](mailto:wairkarvaibhav@gmail.com)
 📄 [Resume](Vaibhav_Wairkar_Resume)
-📧 [wairkarvaibhav@gmail.com](https://mail.google.com/mail/?view=cm&to=wairkarvaibhav@gmail.com)
+📧 [Email](https://mail.google.com/mail/?view=cm&to=wairkarvaibhav@gmail.com)
 ---
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
