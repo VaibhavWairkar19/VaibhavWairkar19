@@ -75,12 +75,7 @@ Relational hospital database in SQL covering patients, doctors, appointments, tr
 
 🔗 [View Project →](https://github.com/VaibhavWairkar19/Hospital_Patient_Management_System)
 
-### 🎓 Student Performance Analysis
-`Python` `Streamlit` `Data Analysis`
 
-End-to-end analysis of student academic performance using demographic and behavioral factors, with an interactive Streamlit dashboard.
-
-🔗 [View Project →](https://github.com/VaibhavWairkar19/student_performance_analysis)
 
 ### 🌾 Smart Agriculture Crop Monitoring
 `Excel` `Pivot Tables` `Dashboard`
