@@ -87,7 +87,14 @@ Data Analyst • Business Intelligence Analyst • Power BI Developer
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VaibhavWairkar19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&card_width=450" alt="Most Used Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VaibhavWairkar19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css,javascript,typescript,jupyter%20notebook,java,c,c++,c%23,php,shell,batchfile,tex,dockerfile,makefile,scss,vue&card_width=450" alt="Most Used Languages" />
 </p>
 
 ---
