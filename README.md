@@ -84,11 +84,10 @@ Data Analyst • Business Intelligence Analyst • Power BI Developer
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=VaibhavWairkar19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VaibhavWairkar19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VaibhavWairkar19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&card_width=450" alt="Most Used Languages" />
 </p>
 
 ---
@@ -98,7 +97,7 @@ Data Analyst • Business Intelligence Analyst • Power BI Developer
 🔗 [GitHub](https://github.com/VaibhavWairkar19)
 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavwairkar19)
 📧 [Email](mailto:wairkarvaibhav@gmail.com)
-📄 [Resume](Vaibhav_Wairkar_Resume_OnePage.pdf)
+📄 [Resume](Vaibhav_Wairkar_Resume.pdf)
 
 ---
 
