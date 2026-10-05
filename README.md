@@ -52,26 +52,42 @@
 
 ## 🚀 Featured Projects
 
-### 📈 PROJECT 1 NAME – Short Title
-`Power BI` `SQL` `DAX` `Data Visualization`
+### 🛒 E-Commerce Dashboard
+`Power BI` `SQL` `Data Visualization`
 
-One or two lines: the problem it solves, the data used and the result (e.g. "Interactive dashboard tracking revenue, top products and regional performance across 100K+ orders").
+Interactive Power BI dashboard analyzing sales performance and key business KPIs for an e-commerce business.
 
-🔗 [View Project →](https://github.com/YOUR-USERNAME/PROJECT-1)
+🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
 
-### 🐍 PROJECT 2 NAME – Short Title
-`Python` `Pandas` `EDA` `Matplotlib`
+### 🏥 Hospital Database Management
+`MySQL` `SQL` `Database Design`
 
-One or two lines on the dataset, your analysis and the key insights you found.
+Hospital database built in MySQL, covering table design, relationships and queries for hospital data.
 
-🔗 [View Project →](https://github.com/YOUR-USERNAME/PROJECT-2)
+🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
 
-### 🌐 PROJECT 3 NAME – Short Title
-`Python` `Streamlit` `SQL`
+### 🌾 Smart Agriculture Analysis
+`Excel` `Data Analysis` `Reporting`
 
-One or two lines on what the app does and who it helps.
+Excel-based analysis of agriculture data with summaries and reporting to support better decisions.
 
-🔗 [View Project →](https://github.com/YOUR-USERNAME/PROJECT-3)
+🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+
+### 🤖 AgroAI
+`Python` `Machine Learning`
+
+Data and AI project applied to agriculture.
+
+🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+
+### 🎮 GameTech (Capstone Project)
+`Python`
+
+Final-year capstone project.
+
+🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+
+---
 
 ---
 
