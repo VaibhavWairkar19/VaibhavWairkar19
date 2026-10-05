@@ -54,42 +54,47 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Dashboard
-`Power BI` `SQL` `Data Visualization`
+### 🎮 GameTech: Player Behaviour Analysis (Capstone)
+`Python` `SQL` `Machine Learning` `Power BI` `Excel`
 
-Interactive Power BI dashboard analyzing sales performance and key business KPIs for an e-commerce business.
+End-to-end game analytics project analyzing player behaviour, engagement, and monetisation using SQL, Python, statistical analysis, machine learning, Power BI, and Excel dashboards.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19/REPO-NAME)
+🔗 [View Project →](https://github.com/VaibhavWairkar19/GameTech_Player_Behaviour_Analysis)
 
-### 🏥 Hospital Database Management
-`MySQL` `SQL` `Database Design`
+### 🛒 E-Commerce Customer Behavior
+`Power BI` `Data Analysis` `Olist Dataset`
 
-Hospital database built in MySQL, covering table design, relationships and queries for hospital data.
+End-to-end e-commerce analysis exploring customer behavior, sales trends, and payment patterns using the Olist dataset, with an interactive Power BI dashboard.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19/REPO-NAME)
+🔗 [View Project →](https://github.com/VaibhavWairkar19/E-Commerce_Customer_Behavior)
 
-### 🌾 Smart Agriculture Analysis
-`Excel` `Data Analysis` `Reporting`
+### 🏥 Hospital Patient Management System
+`SQL` `Database Design` `Triggers`
 
-Excel-based analysis of agriculture data with summaries and reporting to support better decisions.
+Relational hospital database in SQL covering patients, doctors, appointments, treatments, prescriptions, and billing, with views, triggers, and transactions.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19/REPO-NAME)
+🔗 [View Project →](https://github.com/VaibhavWairkar19/Hospital_Patient_Management_System)
 
-### 🤖 AgroAI
-`Python` `Machine Learning`
+### 🎓 Student Performance Analysis
+`Python` `Streamlit` `Data Analysis`
 
-Data and AI project applied to agriculture.
+End-to-end analysis of student academic performance using demographic and behavioral factors, with an interactive Streamlit dashboard.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19/REPO-NAME)
+🔗 [View Project →](https://github.com/VaibhavWairkar19/student_performance_analysis)
 
-### 🎮 GameTech (Capstone Project)
-`Python` `Pandas` `Data Visualization`
+### 🌾 Smart Agriculture Crop Monitoring
+`Excel` `Pivot Tables` `Dashboard`
 
-Game analytics project analyzing player behaviour and engagement patterns to surface insights on retention and gameplay trends.
+Excel-based crop yield analysis using Pivot Tables, Pivot Charts, and an interactive dashboard to study soil moisture, rainfall, and regional impact on agricultural productivity.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19/REPO-NAME)
+🔗 [View Project →](https://github.com/VaibhavWairkar19/-Smart_Agriculture_Crop_Monitoring_Excel)
 
+### 🤖 AI Event Planner
+`Python` `Groq API`
 
+Console-based AI event planner in Python that manages events and participants, analyzes turnout, and generates AI planning suggestions via the Groq API.
+
+🔗 [View Project →](https://github.com/VaibhavWairkar19/AI_Event_Planner)
 ---
 
 ## 🎓 Education
