@@ -12,7 +12,7 @@
 
 📊 Hands-on experience with **SQL, Python, Excel and Power BI** through academic and practical projects.
 
-🌱 Currently learning **advanced SQL (window functions, CTEs), Pandas and Power BI DAX**.
+🌱 Currently learning **SQL , Pandas and Power BI DAX**.
 
 🚀 Currently looking for opportunities in **Data Analytics / Business Intelligence**.
 
