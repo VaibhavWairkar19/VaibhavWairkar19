@@ -92,14 +92,6 @@ Hands-on training in Excel, SQL, Python, Power BI, Statistics and GenAI.
 
 Data Analyst • Business Intelligence Analyst • Power BI Developer • Junior Data Analyst
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
