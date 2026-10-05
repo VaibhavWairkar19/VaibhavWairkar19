@@ -1,113 +1,114 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Satish Wairkar</h1>
 
-<p align="center"><b>Data Analytics | SQL | Python | Power BI | Excel</b></p>
+<p align="center">
+  <b>Data Analytics | SQL | Python | Power BI | Excel</b>
+</p>
 
-<p align="center">Turning messy data into clear stories and useful insights.</p>
+<p align="center">
+  <i>Turning raw data into clear insights and better business decisions.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-orange?style=for-the-badge" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Computer Engineering graduate (2026) passionate about **Data Analytics and Business Intelligence**.
-
-📊 Hands-on experience with **SQL, Python, Excel and Power BI** through academic and practical projects.
-
-🌱 Currently learning **SQL , Pandas and Power BI DAX**.
-
-🚀 Currently looking for opportunities in **Data Analytics / Business Intelligence**.
+- 🎓 Computer Engineering graduate (2026) with a strong interest in **Data Analytics and Business Intelligence**
+- 📊 I build dashboards, write SQL queries and use Python to find patterns and answer business questions
+- 🤖 Certified in **Data Analytics with GenAI (NIIT)**
+- 🚀 Currently looking for **entry-level Data Analyst / BI roles**
+- 📍 Based in Malvan, Sindhudurg, Maharashtra, India
 
 ---
 
 ## 🛠️ Skills
 
-**Data & BI:** Excel • Power BI • Data Visualization • EDA
+**Data & BI:** Excel • Power BI • DAX • Power Query • Data Visualization • EDA
 
-**Programming:** Python • Pandas • NumPy • Matplotlib
+**Programming:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
-**Database:** SQL • MySQL • Database Design
+**Database:** SQL • Joins • Aggregations • Subqueries • CTEs
 
-**Machine Learning:** scikit-learn
+**Apps & Deployment:** Streamlit
 
-**Tools:** Anaconda • Git & GitHub
+**Tools:** Git • GitHub • VS Code • Jupyter Notebook
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Dashboard
-`Power BI` `SQL` `Data Visualization`
+### 📈 PROJECT 1 NAME – Short Title
+`Power BI` `SQL` `DAX` `Data Visualization`
 
-Interactive Power BI dashboard analyzing sales performance and key business KPIs for an e-commerce business.
+One or two lines: the problem it solves, the data used and the result (e.g. "Interactive dashboard tracking revenue, top products and regional performance across 100K+ orders").
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+🔗 [View Project →](https://github.com/YOUR-USERNAME/PROJECT-1)
 
-### 🏥 Hospital Database Management
-`MySQL` `SQL` `Database Design`
+### 🐍 PROJECT 2 NAME – Short Title
+`Python` `Pandas` `EDA` `Matplotlib`
 
-Hospital database built in MySQL, covering table design, relationships and queries for hospital data.
+One or two lines on the dataset, your analysis and the key insights you found.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+🔗 [View Project →](https://github.com/YOUR-USERNAME/PROJECT-2)
 
-### 🌾 Smart Agriculture Analysis
-`Excel` `Data Analysis` `Reporting`
+### 🌐 PROJECT 3 NAME – Short Title
+`Python` `Streamlit` `SQL`
 
-Excel-based analysis of agriculture data with summaries and reporting to support better decisions.
+One or two lines on what the app does and who it helps.
 
-🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
-
-### 🤖 AgroAI
-`Python` `Machine Learning`
-
-Data and AI project applied to agriculture.
-
-🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
-
-### 🎮 GameTech (Capstone Project)
-`Python`
-
-Final-year capstone project.
-
-🔗 [View Project →](https://github.com/VaibhavWairkar19?tab=repositories)
+🔗 [View Project →](https://github.com/YOUR-USERNAME/PROJECT-3)
 
 ---
 
 ## 🎓 Education
 
-**Bachelor's in Computer Engineering**
-Graduated: 2026
+**Bachelor of Engineering (BE) – Computer Engineering**
+SSPM's College of Engineering, Harkul, Kankavli (University of Mumbai)
+**CGPA:** X.XX | **Graduated:** 2026
+
+## 📜 Certification
+
+**NIIT – Data Analytics with GenAI**
+Hands-on training in Excel, SQL, Python, Power BI, Statistics and GenAI.
 
 ---
 
 ## 🎯 Career Interests
 
-Data Analyst • Business Intelligence Analyst • Power BI Developer
+Data Analyst • Business Intelligence Analyst • Power BI Developer • Junior Data Analyst
 
 ---
 
-## 💻 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VaibhavWairkar19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css,javascript,typescript,jupyter%20notebook,java,c,c++,c%23,php,shell,batchfile,tex,dockerfile,makefile,scss,vue&card_width=450" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-🔗 [GitHub](https://github.com/VaibhavWairkar19)
-🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavwairkar19)
-📧 [Email](mailto:wairkarvaibhav@gmail.com)
-📄 [Resume](Vaibhav_Wairkar_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
 
 ---
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
