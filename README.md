@@ -89,12 +89,7 @@ Excel-based crop yield analysis using Pivot Tables, Pivot Charts, and an interac
 
 🔗 [View Project →](https://github.com/VaibhavWairkar19/-Smart_Agriculture_Crop_Monitoring_Excel)
 
-### 🤖 AI Event Planner
-`Python` `Groq API`
 
-Console-based AI event planner in Python that manages events and participants, analyzes turnout, and generates AI planning suggestions via the Groq API.
-
-🔗 [View Project →](https://github.com/VaibhavWairkar19/AI_Event_Planner)
 ---
 
 ## 🎓 Education
