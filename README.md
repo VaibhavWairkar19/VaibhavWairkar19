@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-%20Data%20Analyst-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-orange?style=for-the-badge" />
 </p>
 
 ---
