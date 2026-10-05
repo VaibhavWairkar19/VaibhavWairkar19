@@ -34,7 +34,7 @@
 
 **Programming:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
-**Database:** SQL • Joins • Aggregations • Subqueries • CTEs
+**Database:** SQL • Joins • Aggregations • Subqueries 
 
 **Apps & Deployment:** Streamlit
 
