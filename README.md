@@ -97,7 +97,7 @@ Final-year capstone project.
 
 **Bachelor of Engineering (BE) – Computer Engineering**
 SSPM's College of Engineering, Harkul, Kankavli (University of Mumbai)
-**CGPA:** X.XX | **Graduated:** 2026
+**CGPA:** 7.61 | **Graduated:** 2026
 
 ## 📜 Certification
 
@@ -118,7 +118,7 @@ Data Analyst • Business Intelligence Analyst • Power BI Developer • Junior
 🔗 [GitHub](https://github.com/VaibhavWairkar19)
 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavwairkar19)
 📧 [Email](mailto:wairkarvaibhav@gmail.com)
-📄 [Resume](Vaibhav_Wairkar_Resume.pdf)
+📄 [Resume](Vaibhav_Wairkar_Resume)
 
 ---
 
